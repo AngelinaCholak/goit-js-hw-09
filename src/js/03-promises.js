@@ -76,4 +76,5 @@ document.querySelector('.form').addEventListener('submit', function (e) {
         console.log(`❌ Rejected promise ${position} in ${delay}ms`);
       });
   }
+   this.reset();
 });

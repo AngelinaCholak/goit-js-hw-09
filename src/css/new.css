@@ -1,0 +1,31 @@
+.timer-new {
+display: flex;
+gap: 20px;
+
+}
+.field-new {
+display: flex;
+flex-direction: column;
+background-color: rgb(212, 210, 210);
+box-shadow: 0 0 5px 3px #7b889d;
+margin-top: 20px;
+text-align: center;
+justify-content: center;
+align-items: center;
+height: 60px;
+width: 90px;
+border-radius: 15px;
+}
+.input-new {
+height: 30px;
+width: 40%;
+border-radius: 10px;
+border: 2px solid rgb(95, 92, 92);
+}
+.button-new {
+height: 30px;
+border-radius: 10px;
+border: 2px solid rgb(95, 92, 92);
+margin-left: 5px;
+background-color: rgb(212, 210, 210);
+}
